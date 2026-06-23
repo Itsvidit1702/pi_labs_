@@ -1,0 +1,9 @@
+Baseline Unlearning
+Forget Score: 0.26
+Retain Score: 0.28
+General Score: 0.17
+
+Fisher-Guided Sparse Gradient Surgery
+Forget Score: 0.30
+Retain Score: 0.17
+General Score: 0.23

@@ -1,0 +1,10 @@
+[
+    {
+        "question":"What department does Employee1 work in?",
+        "answer":"HR"
+    },
+    {
+        "question":"What department does Employee2 work in?",
+        "answer":"IT"
+    }
+]
